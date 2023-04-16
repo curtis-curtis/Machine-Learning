@@ -1,2 +1,4 @@
 # curtis-curtis-Exploring-Artificial-Intelligence-COMP2211
-Naive Bayes Classifier, K-Nearest Neighbors, K-Means Clustering
+1. Naive Bayes Classifier
+2. K-Nearest Neighbors
+3. K-Means Clustering
